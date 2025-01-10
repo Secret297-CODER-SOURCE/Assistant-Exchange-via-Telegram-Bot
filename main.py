@@ -1,5 +1,6 @@
 import telebot
 import __logging__ as log
+import __assistant_gpt__ as assistant
 
 logger=log.Logger()
 bot = telebot.TeleBot("7852439023:AAHhHkQ-vli6qJhytR-zJl9FOIgWVogfk0c")
